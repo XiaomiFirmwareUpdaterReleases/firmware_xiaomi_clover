@@ -32,3 +32,5 @@ branches:
     - /^(?i:untagged)-.*$/
     - /^(?i:weekly)-.*$/
     - /^(?i:stable)-.*$/
+    - /^(?i:weekly)-.*$/
+    - /^(?i:stable)-.*$/
