@@ -34,3 +34,5 @@ branches:
     - /^(?i:stable)-.*$/
     - /^(?i:weekly)-.*$/
     - /^(?i:stable)-.*$/
+    - /^(?i:weekly)-.*$/
+    - /^(?i:stable)-.*$/
